@@ -1,2 +1,2 @@
-# Weather-API
-Weather API for home project
+# Planner-API
+Planner API for home project
